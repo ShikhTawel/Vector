@@ -1,0 +1,6 @@
+Course Name: th
+Course Grade: t
+Course Point: 3
+Course Year: 3
+Course Semester: 3
+---------------------------------------------

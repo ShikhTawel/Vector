@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Education/FCAI-CU/Second Level/Semester 1/OOP/ASs/Ass3/Code/Course.h
+bits/stdc++.h
+-
+
+E:/Education/FCAI-CU/Second Level/Semester 1/OOP/ASs/Ass3/Code/ManualVector.h
+bits/stdc++.h
+-
+
+E:/Education/FCAI-CU/Second Level/Semester 1/OOP/ASs/Ass3/Code/Students.h
+bits/stdc++.h
+-
+ManualVector.h
+E:/Education/FCAI-CU/Second Level/Semester 1/OOP/ASs/Ass3/Code/ManualVector.h
+Course.h
+E:/Education/FCAI-CU/Second Level/Semester 1/OOP/ASs/Ass3/Code/Course.h
+
+E:/Education/FCAI-CU/Second Level/Semester 1/OOP/ASs/Ass3/Code/main.cpp
+iostream
+-
+ManualVector.h
+E:/Education/FCAI-CU/Second Level/Semester 1/OOP/ASs/Ass3/Code/ManualVector.h
+Students.h
+E:/Education/FCAI-CU/Second Level/Semester 1/OOP/ASs/Ass3/Code/Students.h
+
